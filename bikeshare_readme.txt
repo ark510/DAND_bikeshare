@@ -1,6 +1,11 @@
 # Project Title
 
 Udacity DAND Term1 Project2: Explore US Bikeshare Data
+First submitted in or around March 2018 and received passing review that same month, after 1 or more revisions.
+
+The purpose of this repository is to refactor the python script using the Pandas and Numpy libraries that were not included as part of the Term1 course material at the time that I was progressing through the Intro to Python course module.  so the first iterations of the project included only base python language loops and iterators.
+
+I would like to make the code and script more compact and efficient, easier to read, all while learning how to branch from and commit to a repo on github.
 
 ## Getting Started
 
